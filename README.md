@@ -1,4 +1,4 @@
-# Mac U.S. keyboard layout with German Umlauts
+# Mac U.S. keyboard layout with German Umlauts and €
 This layout is designed for German speakers using U.S. English mac keyboards. The layout is a modified U.S. English keyboard layout with German Umlauts using `⌥ option` key bindings:
 * `option` + `a` => `ä`
 * `option` + `o` => `ö`
@@ -8,7 +8,7 @@ This layout is designed for German speakers using U.S. English mac keyboards. Th
 * `option` + `shift` + `o` => `Ö`
 * `option` + `shift` + `u` => `Ü`
 * `option` + `shift` + `s` => `ẞ`
-* * `option` + `4` => `€`
+* `option` + `4` => `€`
 
 # Installation #
 1. To install the keyboard layout open `Terminal` on your mac and execute the command below. 
